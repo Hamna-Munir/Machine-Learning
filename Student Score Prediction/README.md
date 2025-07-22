@@ -59,8 +59,9 @@ This project is part of my Machine Learning Internship with **Elevvo**. The goal
 ---
 
 ## 📂 File Structure
-├── student_scores_with_hours.csv # Cleaned dataset with study hours & final score
-├── Student_Score_Prediction.ipynb # Complete notebook (Google Colab compatible)
+├── StudentsPerformance.csv # Cleaned dataset with study hours & final score                                                                      
+├── Student Score Prediction.ipynb # Complete notebook (Google Colab compatible)
+
 ├── README.md # Project documentation
 
 
