@@ -10,7 +10,6 @@ This project involves building a machine learning model that can recognize and c
 MNIST_Digit_Recognition/
 ├── mnist_digit_recognition.ipynb       # Jupyter Notebook with full code
 ├── model_mnist.h5                      # Trained Keras model file
-├── requirements.txt                    # List of required Python packages
 └── README.md                           # Project description and instructions
 ```
 
@@ -97,5 +96,5 @@ Free for personal and academic use.
 ---
 
 ✅ **Author:** Hamna Munir\
-🎯 **Task 2 - Arch Technologies AI/ML Internship**
+🎯 **Task 2 - Arch Technologies Machine Learning Internship**
 
