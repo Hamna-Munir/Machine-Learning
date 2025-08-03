@@ -5,7 +5,7 @@ This project is a simple and effective spam detection system using a logistic re
 ## 📁 Folder Structure
 
 ```
-Email-Spam-Classification-ML/
+Email-Spam-Classification/
 │
 ├── spam.csv
 ├── Task1_Email_Spam_Classification.ipynb
