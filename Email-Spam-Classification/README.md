@@ -58,4 +58,4 @@ Email-Spam-Classification/
 ## ✍️ Author
 
 **Hamna Munir**  
-AI/ML Intern at Arch Technologies
+Machine Learning Intern at Arch Technologies
