@@ -37,7 +37,6 @@ If you have the full `ml-100k` folder you can use `u1.base`/`u1.test` or merge o
 
 ## Repository Structure (suggested)
 movie-recommender/
-│
 ├── movie_recommendation_notebook.ipynb # Main notebook (Colab-ready)
 ├── README.md # This file
 ├── requirements.txt # pip install -r requirements.txt
@@ -142,7 +141,7 @@ Top 10 recommendations for user 1:
 
 ---
 
-## Authors & Contact
-Your Name (e.g., Hamna Munir)  
-Email: your.email@example.com  
+## Authors 
+Hamna Munir
+Internship: Elevvo Pathways 
 LinkedIn: https://www.linkedin.com/in/yourprofile
